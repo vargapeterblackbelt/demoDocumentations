@@ -31,4 +31,4 @@
 
 ##  Lefutás
 
-###  [Vissza a főoldalra](../../../index.md)
+###  [Vissza a főoldalra](../../../../../index.md)
