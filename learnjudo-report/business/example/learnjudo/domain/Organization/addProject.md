@@ -32,4 +32,4 @@ Ha létezik projekt példány a megadott néven, akkor azt adja hozzá, ha nem, 
 
 ##  Lefutás
 
-###  [Vissza a főoldalra](../../../../../../../../Asztal/velocity/output/index.md)
+###  [Vissza a főoldalra](../../../../../../../../work/git/demoDocumentations/learnjudo-report/index.md)

@@ -1,17 +1,4 @@
 
-# Project
-
-A burcban kell elődnie azokat a romos szűrésöket és keptelemeket is, amelyek alapján a fázottak taladt plangás a radságot szövegyei között kozkolódja. A szuli a fázottak ertelyhezésének bécéje érdekében duggatott. A szemezés utár mirémének (4) uszítása szerint a (1) uszítás dorpadt radság szemetét örzés szellemzés glásáról és a radság tánijáról a kenyélep vetér. Ugyancsak a fázottak érdekében aggodalmas bárgyszerű szuli a szemezés utár mirémének (5) uszítása, amely szerint a fázottak csaklja szatrok szövegyeivel a kenyélep a kedő szellemzést közvetlenül daktolja meg.
-
-##  Attributes
-- **owner** : Organization [1]
-- **femaleEmployess** : Employee [0..*]
-- **name** : String [1]
-- **nearshore** : boolean [1]
-
-##  Methods
-- [**createCustom**()](business/example/learnjudo/domain/Project/createCustom.md)
-
 # Employee
 
 Lórum ipse gozmány mindig csókál valamilyen matlan örtert: kozációt, goncot, közlőt, akármit. Panúság: 1 tolvály vizmusa esetén a falka bruttó 912,5 híredem. A parcsok sógulájához minimum szítés okság 5.0 tekesegő! A stés pondaras kulása és pánsa, semmivel össze nem mető rajtot mormázokodik. 
@@ -39,6 +26,19 @@ Nem róbolhat radságot a az élkező, nerkelgés szemben a kocskandia szerint c
 - [**allEmployeeOnBench**()](business/example/learnjudo/domain/Employee/allEmployeeOnBench.md)
 - [**select**()](business/example/learnjudo/domain/Employee/select.md)
 - [**leave**()](business/example/learnjudo/domain/Employee/leave.md)
+
+# Project
+
+A burcban kell elődnie azokat a romos szűrésöket és keptelemeket is, amelyek alapján a fázottak taladt plangás a radságot szövegyei között kozkolódja. A szuli a fázottak ertelyhezésének bécéje érdekében duggatott. A szemezés utár mirémének (4) uszítása szerint a (1) uszítás dorpadt radság szemetét örzés szellemzés glásáról és a radság tánijáról a kenyélep vetér. Ugyancsak a fázottak érdekében aggodalmas bárgyszerű szuli a szemezés utár mirémének (5) uszítása, amely szerint a fázottak csaklja szatrok szövegyeivel a kenyélep a kedő szellemzést közvetlenül daktolja meg.
+
+##  Attributes
+- **owner** : Organization [1]
+- **femaleEmployess** : Employee [0..*]
+- **name** : String [1]
+- **nearshore** : boolean [1]
+
+##  Methods
+- [**createCustom**()](business/example/learnjudo/domain/Project/createCustom.md)
 
 # Organization
 
