@@ -31,6 +31,4 @@
 
 ##  Lefutás
 
-###  [Vissza a főoldalra](demoDocumentations/learnjudo-report/index.md)
-
-<a href="javascript:history.back()">Go Back</a>
+###  [Vissza a főoldalra](./demoDocumentations/learnjudo-report/index.md)
