@@ -32,7 +32,7 @@ vddsvv
 
 ##  Kivételek
 
-- A paraméterben megkapott projekt neve nem 'o' karakterrel kezdődik.
+- InvalidProjectParameterException : A paraméterben megkapott projekt neve nem 'o' karakterrel kezdődik.
 
 
 ##  Lefutás
