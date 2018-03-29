@@ -31,4 +31,4 @@
 
 ##  Lefutás
 
-###  [Vissza a főoldalra](./demoDocumentations/learnjudo-report/index.md)
+###  [Vissza a főoldalra](../demoDocumentations/learnjudo-report/index.md)
