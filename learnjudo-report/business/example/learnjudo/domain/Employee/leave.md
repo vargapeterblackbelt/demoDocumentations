@@ -1,5 +1,4 @@
 
-/home/peter/work/git/demoDocumentations/learnjudo-report
 
 
 # Employee.leave()
@@ -14,22 +13,10 @@
 - *Kimenet*:
  void 
 
-##  Előfeltételek
-
-*Nincsenek előfeltételek*
 
 
-##  Utófeltételek
-
-*Nincsenek utófeltételek*
-
-##  Kivételek
-
-*Nincsenek kivételek*
 
 
-##  Változók
 
-##  Lefutás
 
 ###  [Vissza a főoldalra](./../../../../../index.md)

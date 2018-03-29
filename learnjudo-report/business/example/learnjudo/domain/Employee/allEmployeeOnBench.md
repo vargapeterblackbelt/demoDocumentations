@@ -1,5 +1,4 @@
 
-/home/peter/work/git/demoDocumentations/learnjudo-report
 
 
 # Employee.allEmployeeOnBench()
@@ -14,22 +13,10 @@
 - *Kimenet*:
   - **employeesOnBench**  : *Bár az egyre sziványos sortorsot alapvetően csak dinos csapajsággal lehet hasalnia, pofás súlyozás sem üzékedhetik özést a gróna felett.* 
 
-##  Előfeltételek
-
-*Nincsenek előfeltételek*
 
 
-##  Utófeltételek
-
-*Nincsenek utófeltételek*
-
-##  Kivételek
-
-*Nincsenek kivételek*
 
 
-##  Változók
 
-##  Lefutás
 
 ###  [Vissza a főoldalra](./../../../../../index.md)

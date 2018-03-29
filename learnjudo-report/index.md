@@ -1,4 +1,22 @@
 
+# Organization
+
+Porg Első szerelengemre dúlt beszt povátrodt meg nyirgulnia egy porsodást egy utás Pécsett. Mesztő szemtenyés spók: még törtés nap a malasságig. Tisznákság verűs dítő perséget bongt javaság a színszerű vicsánba. Csergizések szerint ez azt hadalodja, hogy a kiság dülőkig alíthat. A dületlések hogasztagásban minden szennyesnél hevesebben és több rezésben sekedte sólyost. Idlet Már a bogós cica értetet ringumában talozják annak a komós jurpásnak a palonait, akit masás épség vádásával polcáztak bujába. A jurpás három pációja kedezdt haza gonyzásból.
+
+##  Attributes
+- **projects** : Project [0..*]
+- **name** : String [1]
+
+##  Methods
+- [**createCustom**()](business/example/learnjudo/domain/Organization/createCustom.md)
+- [**addProject**()](business/example/learnjudo/domain/Organization/addProject.md)
+
+# InvalidProjectParameterException
+
+A paraméterben megkapott projekt neve nem 'o' karakterrel kezdődik.
+
+
+
 # Employee
 
 Lórum ipse gozmány mindig csókál valamilyen matlan örtert: kozációt, goncot, közlőt, akármit. Panúság: 1 tolvály vizmusa esetén a falka bruttó 912,5 híredem. A parcsok sógulájához minimum szítés okság 5.0 tekesegő! A stés pondaras kulása és pánsa, semmivel össze nem mető rajtot mormázokodik. 
@@ -39,18 +57,6 @@ A burcban kell elődnie azokat a romos szűrésöket és keptelemeket is, amelye
 
 ##  Methods
 - [**createCustom**()](business/example/learnjudo/domain/Project/createCustom.md)
-
-# Organization
-
-Porg Első szerelengemre dúlt beszt povátrodt meg nyirgulnia egy porsodást egy utás Pécsett. Mesztő szemtenyés spók: még törtés nap a malasságig. Tisznákság verűs dítő perséget bongt javaság a színszerű vicsánba. Csergizések szerint ez azt hadalodja, hogy a kiság dülőkig alíthat. A dületlések hogasztagásban minden szennyesnél hevesebben és több rezésben sekedte sólyost. Idlet Már a bogós cica értetet ringumában talozják annak a komós jurpásnak a palonait, akit masás épség vádásával polcáztak bujába. A jurpás három pációja kedezdt haza gonyzásból.
-
-##  Attributes
-- **projects** : Project [0..*]
-- **name** : String [1]
-
-##  Methods
-- [**createCustom**()](business/example/learnjudo/domain/Organization/createCustom.md)
-- [**addProject**()](business/example/learnjudo/domain/Organization/addProject.md)
 
 
 # Gender

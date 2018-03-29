@@ -1,5 +1,4 @@
 
-/home/peter/work/git/demoDocumentations/learnjudo-report
 
 
 # Gender.getValue()
@@ -15,22 +14,10 @@
 *Nincs*
 
 
-##  Előfeltételek
-
-*Nincsenek előfeltételek*
 
 
-##  Utófeltételek
-
-*Nincsenek utófeltételek*
-
-##  Kivételek
-
-*Nincsenek kivételek*
 
 
-##  Változók
 
-##  Lefutás
 
 ###  [Vissza a főoldalra](./../../../../../index.md)

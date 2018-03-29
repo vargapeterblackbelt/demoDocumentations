@@ -1,5 +1,4 @@
 
-/home/peter/work/git/demoDocumentations/learnjudo-report
 
 
 # Project.createCustom()
@@ -21,22 +20,10 @@ Még rözésben volt egy vilális körgészer, aki ugyanúgy dugvált ki, mint a
 - *Kimenet*:
   - ****  : *A létrejött projekt példány.* 
 
-##  Előfeltételek
-
-*Nincsenek előfeltételek*
 
 
-##  Utófeltételek
-
-*Nincsenek utófeltételek*
-
-##  Kivételek
-
-*Nincsenek kivételek*
 
 
-##  Változók
 
-##  Lefutás
 
 ###  [Vissza a főoldalra](./../../../../../index.md)

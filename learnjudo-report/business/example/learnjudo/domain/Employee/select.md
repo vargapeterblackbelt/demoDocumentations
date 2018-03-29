@@ -1,5 +1,4 @@
 
-/home/peter/work/git/demoDocumentations/learnjudo-report
 
 
 # Employee.select()
@@ -14,22 +13,10 @@
 - *Kimenet*:
   - **employees**  : *Áltis pedig oszlás bolyája óta tatott és egyben hanyag dulavatban volt a nála 40 bukával tetelező kántárattal. * 
 
-##  Előfeltételek
-
-*Nincsenek előfeltételek*
 
 
-##  Utófeltételek
-
-*Nincsenek utófeltételek*
-
-##  Kivételek
-
-*Nincsenek kivételek*
 
 
-##  Változók
 
-##  Lefutás
 
 ###  [Vissza a főoldalra](./../../../../../index.md)

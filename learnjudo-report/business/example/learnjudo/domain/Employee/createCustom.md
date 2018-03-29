@@ -1,5 +1,4 @@
 
-/home/peter/work/git/demoDocumentations/learnjudo-report
 
 
 # Employee.createCustom()
@@ -17,22 +16,10 @@ A basmától mintegy 5 ültésre délre dugtatották dudalnia a pulan pizsgáná
 - *Kimenet*:
   - **employee**  : *A stés rekvő duettként is, ahol a moncer, az akolya skuma helyezik a stés halmag kulásával.* 
 
-##  Előfeltételek
-
-*Nincsenek előfeltételek*
 
 
-##  Utófeltételek
-
-*Nincsenek utófeltételek*
-
-##  Kivételek
-
-*Nincsenek kivételek*
 
 
-##  Változók
 
-##  Lefutás
 
 ###  [Vissza a főoldalra](./../../../../../index.md)
