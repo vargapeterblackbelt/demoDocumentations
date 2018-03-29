@@ -39,4 +39,4 @@ Még rözésben volt egy vilális körgészer, aki ugyanúgy dugvált ki, mint a
 
 ##  Lefutás
 
-###  [Vissza a főoldalra](../../../../../../index.md)
+###  [Vissza a főoldalra](./../../../../../index.md)

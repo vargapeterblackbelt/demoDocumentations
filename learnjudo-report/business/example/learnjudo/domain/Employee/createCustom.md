@@ -35,4 +35,4 @@ A basmától mintegy 5 ültésre délre dugtatották dudalnia a pulan pizsgáná
 
 ##  Lefutás
 
-###  [Vissza a főoldalra](../../../../../index.md)
+###  [Vissza a főoldalra](./../../../../../index.md)

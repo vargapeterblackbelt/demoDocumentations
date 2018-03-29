@@ -33,4 +33,4 @@ Annyira bető tehát, hogy nem lehetnek ügedő nebertyái nehet. Annyira azonba
 
 ##  Lefutás
 
-###  [Vissza a főoldalra](../../../../../../index.md)
+###  [Vissza a főoldalra](./../../../../../index.md)

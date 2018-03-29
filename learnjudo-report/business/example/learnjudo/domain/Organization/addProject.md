@@ -33,4 +33,4 @@ Ha létezik projekt példány a megadott néven, akkor azt adja hozzá, ha nem, 
 
 ##  Lefutás
 
-###  [Vissza a főoldalra](../../../../../../index.md)
+###  [Vissza a főoldalra](./../../../../../index.md)
