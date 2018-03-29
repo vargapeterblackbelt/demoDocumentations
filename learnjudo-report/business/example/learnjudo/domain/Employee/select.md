@@ -31,4 +31,4 @@
 
 ##  Lefutás
 
-###  [Vissza a főoldalra](../../../../../../../../work/git/demoDocumentations/learnjudo-report/index.md)
+###  [Vissza a főoldalra](git/demoDocumentations/learnjudo-report/index.md)
