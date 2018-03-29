@@ -33,10 +33,4 @@
 
 ###  [Vissza a főoldalra](demoDocumentations/learnjudo-report/index.md)
 
-<button onclick="goBack()">Go Back</button>
-
-<script>
-function goBack() {
-    window.history.back();
-}
-</script>
+<a href="javascript:history.back()">Go Back</a>
