@@ -4,15 +4,8 @@
 # Organization.addProject()
 **Organization.addProject()** művelettől elvárt teljesítendők:
 
-- [[Teljesítendők]]
-Az Organization-hoz attacholja a projektet.
+- Az Organization-hoz attacholja a projektet.
 Ha létezik projekt példány a megadott néven, akkor azt adja hozzá, ha nem, akkor létrehoz egyet.
-[[Változók]]
-nincs
-[[Előfeltétel]]
-Ez egy előfeltétel kdgkldfshfs jkdfkjds dsbvdb
-vddsvv
-
 
 ##  Paraméterek
 - *Bemenet*:
