@@ -1,4 +1,5 @@
 
+/home/peter/work/git/demoDocumentations/learnjudo-report
 
 
 # Employee.assignToProject()
@@ -32,4 +33,4 @@ Annyira bető tehát, hogy nem lehetnek ügedő nebertyái nehet. Annyira azonba
 
 ##  Lefutás
 
-###  [Vissza a főoldalra](../../../../../../../../work/git/demoDocumentations/learnjudo-report/index.md)
+###  [Vissza a főoldalra](../../../../../../index.md)

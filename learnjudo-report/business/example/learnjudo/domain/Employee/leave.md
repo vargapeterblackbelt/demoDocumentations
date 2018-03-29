@@ -1,4 +1,5 @@
 
+/home/peter/work/git/demoDocumentations/learnjudo-report
 
 
 # Employee.leave()
@@ -31,4 +32,4 @@
 
 ##  Lefutás
 
-###  [Vissza a főoldalra](../../../../../../../../work/git/demoDocumentations/learnjudo-report/index.md)
+###  [Vissza a főoldalra](../../../../../../index.md)

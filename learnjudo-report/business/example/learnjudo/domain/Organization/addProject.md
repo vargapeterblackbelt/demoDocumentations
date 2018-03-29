@@ -1,4 +1,5 @@
 
+/home/peter/work/git/demoDocumentations/learnjudo-report
 
 
 # Organization.addProject()
@@ -32,4 +33,4 @@ Ha létezik projekt példány a megadott néven, akkor azt adja hozzá, ha nem, 
 
 ##  Lefutás
 
-###  [Vissza a főoldalra](../../../../../../../../work/git/demoDocumentations/learnjudo-report/index.md)
+###  [Vissza a főoldalra](../../../../../../index.md)

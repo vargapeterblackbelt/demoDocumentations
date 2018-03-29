@@ -1,4 +1,5 @@
 
+/home/peter/work/git/demoDocumentations/learnjudo-report
 
 
 # Project.createCustom()
@@ -38,4 +39,4 @@ Még rözésben volt egy vilális körgészer, aki ugyanúgy dugvált ki, mint a
 
 ##  Lefutás
 
-###  [Vissza a főoldalra](../../../../../../../../work/git/demoDocumentations/learnjudo-report/index.md)
+###  [Vissza a főoldalra](../../../../../../index.md)

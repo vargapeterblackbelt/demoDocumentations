@@ -1,4 +1,5 @@
 
+/home/peter/work/git/demoDocumentations/learnjudo-report
 
 
 # Employee.createCustom()
@@ -34,4 +35,4 @@ A basmától mintegy 5 ültésre délre dugtatották dudalnia a pulan pizsgáná
 
 ##  Lefutás
 
-###  [Vissza a főoldalra](../../../../../../../../work/git/demoDocumentations/learnjudo-report/index.md)
+###  [Vissza a főoldalra](../../../../../../index.md)
