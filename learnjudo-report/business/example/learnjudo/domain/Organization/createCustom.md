@@ -10,5 +10,6 @@
 
 - *Kimenet*:
   - ****  : *Az egyedi módon létrehozott Organization példány.* 
+;
 A JUDO által biztosított standard konstruktor művelet felüldefiniálása a speciális attribútumok értékmegadására tekintettel.
 

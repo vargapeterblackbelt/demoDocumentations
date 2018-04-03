@@ -9,6 +9,7 @@
 
 - *Kimenet*:
   - **employee**  : *A stés rekvő duettként is, ahol a moncer, az akolya skuma helyezik a stés halmag kulásával.* 
+;
 <html>
   <head>
 		<style>

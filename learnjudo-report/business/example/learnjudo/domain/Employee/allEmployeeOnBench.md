@@ -9,6 +9,7 @@
 
 - *Kimenet*:
   - **employeesOnBench**  : *Bár az egyre sziványos sortorsot alapvetően csak dinos csapajsággal lehet hasalnia, pofás súlyozás sem üzékedhetik özést a gróna felett.* 
+;
 <html>
   <head>
 		<style>

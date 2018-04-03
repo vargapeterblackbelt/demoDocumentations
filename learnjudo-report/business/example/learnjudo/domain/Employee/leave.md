@@ -9,6 +9,7 @@
 
 - *Kimenet*:
  void 
+;
 <html>
   <head>
 		<style>
@@ -70,11 +71,6 @@ nincs&#160;
 
     <p>
 B&aacute;r a sz&iacute;ns&eacute;gnek rapord hebri &eacute;s l&eacute;kes p&uuml;ld&ouml;ks&eacute;gei vannak, &eacute;hetőit legjobban ezekből a perf&eacute;szes h&aacute;szkonyokb&oacute;l lehet ros&iacute;tnia.
-
-    </p>
-
-    <p>
-&#160;
 
     </p>
 
