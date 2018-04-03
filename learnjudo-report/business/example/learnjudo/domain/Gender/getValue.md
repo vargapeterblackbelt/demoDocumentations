@@ -2,9 +2,6 @@
 
 
 # Gender.getValue()
-**Gender.getValue()** művelettől elvárt teljesítendők:
-
-- 
 
 ##  Paraméterek
 - *Bemenet*:
@@ -15,9 +12,3 @@
 
 
 
-
-
-
-
-
-###  [Vissza a főoldalra](./../../../../../index.md)

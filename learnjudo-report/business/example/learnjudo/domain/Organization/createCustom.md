@@ -2,9 +2,6 @@
 
 
 # Organization.createCustom()
-**Organization.createCustom()** művelettől elvárt teljesítendők:
-
-- A JUDO által biztosított standard konstruktor művelet felüldefiniálása a speciális attribútumok értékmegadására tekintettel.
 
 ##  Paraméterek
 - *Bemenet*:
@@ -13,11 +10,5 @@
 
 - *Kimenet*:
   - ****  : *Az egyedi módon létrehozott Organization példány.* 
+A JUDO által biztosított standard konstruktor művelet felüldefiniálása a speciális attribútumok értékmegadására tekintettel.
 
-
-
-
-
-
-
-###  [Vissza a főoldalra](./../../../../../index.md)
