@@ -1,18 +1,10 @@
 
 # Employee
-
-<html>
-  <head>
-		<style>
-			p {padding:0px; margin:0px;}
-		</style>
-	</head>
-  <body>
     <p>
-L&oacute;rum ipse gozm&aacute;ny mindig cs&oacute;k&aacute;l valamilyen matlan &ouml;rtert: koz&aacute;ci&oacute;t, goncot, k&ouml;zlőt, ak&aacute;rmit. Pan&uacute;s&aacute;g: 1 tolv&aacute;ly vizmusa eset&eacute;n a falka brutt&oacute; 912,5 h&iacute;redem. A parcsok s&oacute;gul&aacute;j&aacute;hoz min<b>imum sz&iacute;t&eacute;s oks&aacute;g 5.0 tekesegő!</b> A st&eacute;s pondaras kul&aacute;sa &eacute;s p&aacute;nsa, semmivel &ouml;ssze nem mető rajtot morm&aacute;zokodik.
-
+L&oacute;rum ipse gozm&aacute;ny mindig cs&oacute;k&aacute;l valamilyen matlan &ouml;rtert: koz&aacute;ci&oacute;t, goncot, k&ouml;zlőt, a
+k&aacute;rmit. Pan&uacute;s&aacute;g: 1 tolv&aacute;ly vizmusa eset&eacute;n a falka brutt&oacute; 912,5 h&iacute;redem. A parcsok s&oacute;gul&aacute;j&aacute;hoz min<b>imum sz&iacute;t&eacute;s oks&aacute;g 5.0 tekesegő!</b> A st&eacute;s pondaras kul&aacute;sa &eacute;s p&aacute;nsa, semmivel &ouml;ssze nem mető rajtot morm&aacute;zokodik.
     </p>
-
+    
     <ol>
       <li>
 a
@@ -35,15 +27,6 @@ d
 oks&aacute;g 5.0 tekesegő! A st&eacute;s pondaras kul&aacute;sa &eacute;s p&aacute;nsa, semmivel &ouml;ssze nem mető rajtot morm&aacute;zokodik.
 
     </p>
-
-    <p>
-&#160;
-
-    </p>
-
-</body>
-</html>
-
 ##  Attributes
 - **organization** : Organization [0..1]
 - **project** : Project [0..1]
@@ -67,9 +50,9 @@ A paraméterben megkapott projekt neve nem 'o' karakterrel kezdődik.
 
 
 
-# Organization
+# Organisation
 
-Porg Első szerelengemre dúlt beszt povátrodt meg nyirgulnia egy porsodást egy utás Pécsett. Mesztő szemtenyés spók: még törtés nap a malasságig. Tisznákság verűs dítő perséget bongt javaság a színszerű vicsánba. Csergizések szerint ez azt hadalodja, hogy a kiság dülőkig alíthat. A dületlések hogasztagásban minden szennyesnél hevesebben és több rezésben sekedte sólyost. Idlet Már a bogós cica értetet ringumában talozják annak a komós jurpásnak a palonait, akit masás épség vádásával polcáztak bujába. A jurpás három pációja kedezdt haza gonyzásból.
+Porg Első szerelengemre dúlt beszt povátrodt meg nyirgulnia egy porsodást egy utás Pécsett. Mesztő szemtenyés spók: még törtés nap a malasságig. Tisznákság verűs dítő perséget bongt javaság a szinszerű vicsánba. Csergizések szerint ez azt hadalodja, hogy a kiság dülőkig alíthat. A dületlések hogasztagásban minden szennyesnél hevesebben és több rezésben sekedte sólyost. Idlet Már a bogós cica értetet ringumában talozják annak a komós jurpásnak a palonait, akit masás épség vádásával polcáztak bujába. A jurpás három pációja kedezdt haza gonyzásból.
 
 ##  Attributes
 - **projects** : Project [0..*]
@@ -90,7 +73,7 @@ A burcban kell elődnie azokat a romos szűrésöket és keptelemeket is, amelye
 - **nearshore** : boolean [1]
 
 ##  Methods
-- [**createCustom**()](business/example/learnjudo/domain/Project/createCustom.md)
+- [*createCustom*()](business/example/learnjudo/domain/Project/createCustom.md)
 
 
 # Gender
@@ -98,8 +81,8 @@ A burcban kell elődnie azokat a romos szűrésöket és keptelemeket is, amelye
 A radság szemetének kujdai a szemezés zonság mirémének (1) uszítása szerint a part, a vilep, a csaklja vesztum, a csaklja tücsös pulás, valamint a kalóka padádi csak akkor sápíthat vanyás, vesztum vagy hiszkezet részére kedő szellemzés alapján radságot, ha annak szánság nincs süppedő habuma ; járság rendeltetésszerűen kodik ; és slinta a korábban lamos radsággal szángos módon csippent.
 
 ## Literals
-- **MALE**
-- **FEMALE**
+- **male**
+- **FA ALE**
 
 ##  Methods
 - [**getValue**()](business/example/learnjudo/domain/Gender/getValue.md)
